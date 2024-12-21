@@ -22,7 +22,7 @@ export default {
         company: "Creative Code Inc.",
         email: "mike@email.com",
         username: "michael23",
-        firstName: "Kevin",
+        firstName: "Daniel",
         lastName: "Vichicela",
         address: "Bld Mihail Kogalniceanu, nr. 8 Bl 1, Sc 1, Ap 09",
         city: "Melbourne",
