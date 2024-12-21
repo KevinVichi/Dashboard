@@ -36,7 +36,7 @@ const tableData = [
     id: 1,
     name: "Dakota Rice",
     salary: "$36.738",
-    country: "Niger",
+    country: "Ecuador",
     city: "Oud-Turnhout",
   },
   {
