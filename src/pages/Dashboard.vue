@@ -187,7 +187,7 @@ export default {
         chartData: {
           datasets: [{}],
           labels: [
-            "JAN",
+            "ENE",
             "FEB",
             "MAR",
             "APR",
