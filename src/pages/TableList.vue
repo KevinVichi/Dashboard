@@ -34,7 +34,7 @@ const tableColumns = ["Name", "Country", "City", "Salary"];
 const tableData = [
   {
     id: 1,
-    name: "Dakota Rice",
+    name: "Dakota 123",
     salary: "$36.738",
     country: "Ecuador",
     city: "Quito",
